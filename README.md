@@ -2,7 +2,7 @@
 
 [![build and
 publish](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml)
-[![DOI:10.57750/nmyg-wg36](https://img.shields.io/badge/DOI-10.57750/nmyg-wg36-034E79.svg)](https://doi.org/10.57750/nmyg-wg36)
+[![DOI:10.57750/nmyg-wg36](https://img.shields.io/badge/DOI-10.57750/nmyg--wg36-034E79.svg)](https://doi.org/10.57750/nmyg-wg36)
 [![Creative Commons
 License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
