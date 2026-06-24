@@ -1,39 +1,3 @@
----
-title: "Should we correct the bias in Confidence Bands for Repeated Functional Data?"
-author:
-  - name: Emilie Devijver
-    corresponding: true
-    email: emilie.devijver@univ-grenoble-alpes.fr
-    url: https://lig-aptikal.imag.fr/~devijvee/
-    affiliations:
-      - name: CNRS, Univ. Grenoble Alpes, Grenoble INP, LIG, 38000 Grenoble, France
-  - name: Adeline Samson
-    email: adeline.leclercq-samson@univ-grenoble-alpes.fr
-    url: http://adeline.e-samson.org
-    affiliations:
-      - name: Univ. Grenoble Alpes, CNRS, Grenoble INP, LJK, 38000 Grenoble, France
-date: last-modified
-date-modified: last-modified
-description: |
-abstract: >+
- While confidence intervals for finite quantities are well-established, constructing confidence bands for objects of infinite dimension, such as functions, is challenging.  In this paper, we explore the concept of parametric confidence bands for functional data with an orthonormal basis. Specifically, we revisit the method proposed by Sun and Loader, which yields confidence bands for the projection of the regression function in a fixed-dimensional space. This approach can introduce bias into the confidence bands when the dimension of the basis is misspecified. Building on this insight, we introduce a corrected, unbiased confidence band. Surprisingly, our corrected band tends to be wider than that suggested by a naive approach. To address this, we propose a model selection criterion that allows for data-driven estimation of the basis dimension. The bias is then automatically corrected after dimension selection. We illustrate these strategies through an extensive simulation study. We conclude with an application to real data.
-keywords: [functional data, repeated data, confidence band, Kac-Rice formulae, bias, dimension selection]
-citation:
-  type: article-journal
-  container-title: "Computo"
-  doi: "xxxx"
-  url: https://computo.sfds.asso.fr/template-computo-quarto
-  publisher: "Société Française de Statistique"
-  issn: "2824-7795"
-bibliography: references.bib
-github-user: computorg
-repo: "template-computo-r"
-draft: true # set to false once the build is running
-published: false # will be set to true once accepted
-format:
-  computo-pdf: default
-  computo-html: default
----
 
 
 # Introduction
@@ -1235,8 +1199,8 @@ cpt %>%
 
 
 ```{r, fig.height = 7, fig.width=7}
-# | label: fig-modelsel
-# | fig-cap: "Illustrative example with $N=40$. From 100 datasets, we calculate the distribution of the estimated dimension L, for four model selection criteria: from top to bottom, the debiased band proposed in CB2 with  Lhat, the band CB3 with  Ltilde, the cross validation and hard thresholding methods.  The true dimension is $L^* = 11$. "
+#| label: fig-modelsel
+#| fig-cap: "Illustrative example with $N=40$. From 100 datasets, we calculate the distribution of the estimated dimension L, for four model selection criteria: from top to bottom, the debiased band proposed in CB2 with  Lhat, the band CB3 with  Ltilde, the cross validation and hard thresholding methods.  The true dimension is $L^* = 11$. "
 
 load('res_data/Res_Tab3_Lhat.RData')
 

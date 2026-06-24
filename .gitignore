@@ -1,16 +1,46 @@
+# R and co
 .Rhistory
 .Rprofile
 .Rapp.history
 .RData
 .Ruserdata
-/*.Rcheck/
+*.Rproj
+.Rproj.user
 .Rproj.user/
-*_cache/
-/cache/
-*_files/
-template-computo-R.html
-logo_text_white.pdf
-template-computo-R.pdf
+/*.Rcheck/
+renv/
+
+# Python and co
+_environment
+/.micromamba/
+/.joblib
+/.pytest_cache/
+
+# Quarto tmp files
 /.quarto/
+/*_files
+/*_cache
+/_freeze
+_site/
+/cache/
+
+# Quarto extension files
 _extensions/
-renv/.DS_Store
+logo_text_white.pdf
+logo_notext_white.png
+
+# Quarto output files
+published-202606-devijver-scb.html
+published-202606-devijver-scb.pdf
+published-202606-devijver-scb.ipynb
+published-202606-devijver-scb.tex
+
+# Latex compilation files
+*.aux
+*.log
+*.toc
+
+# Various system files
+DS_Store
+/.luarc.json
+
