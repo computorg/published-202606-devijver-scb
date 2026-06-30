@@ -44,3 +44,5 @@ published-202606-devijver-scb.tex
 DS_Store
 /.luarc.json
 
+
+**/*.quarto_ipynb

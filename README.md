@@ -1,4 +1,6 @@
 # Should we correct the bias in Confidence Bands for Repeated Functional Data?
+Emilie Devijver, Adeline Samson
+2026-06-30
 
 [![build and
 publish](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml)
