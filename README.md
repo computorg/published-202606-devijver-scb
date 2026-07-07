@@ -1,21 +1,26 @@
 # Should we correct the bias in Confidence Bands for Repeated Functional Data?
 Emilie Devijver, Adeline Samson
-2026-06-30
+2026-07-07
+
+### Citation
+
+Emilie Devijver and Adeline Samson (in press). Should we correct the bias in Confidence Bands for Repeated Functional Data?. Computo.
+<https://doi.org/10.57750/nmyg-wg36>
+
+### Badges
 
 [![build and
 publish](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202606-devijver-scb/actions/workflows/build.yml)
-[![DOI:10.57750/nmyg-wg36](https://img.shields.io/badge/DOI-10.57750/nmyg--wg36-034E79.svg)](https://doi.org/10.57750/nmyg-wg36)
+[![reviews](https://img.shields.io/badge/review-report-blue)](https://github.com/computorg/published-202606-devijver-scb/issues?q=is%3Aopen+is%3Aissue+label%3Areview)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/computorg/published-202606-devijver-scb)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/computorg/published-202606-devijver-scb)
+[![DOI:10.57750/nmyg-wg36](https://img.shields.io/badge/DOI-10.57750%2Fnmyg--wg36-034E79.svg)](https://doi.org/10.57750/nmyg-wg36)
 [![Creative Commons
 License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![](https://img.shields.io/badge/review-report-blue.png)](https://github.com/computorg/published-202606-devijver-scb/issues?q=is%3Aopen+is%3Aissue+label%3Areview)
+### Authors’ affiliations
 
-### Authors
-
-- [Emilie Devijver](https://lig-aptikal.imag.fr/~devijvee/) (CNRS, Univ.
-  Grenoble Alpes, Grenoble INP, LIG, 38000 Grenoble, France)
-- [Adeline Samson](http://adeline.e-samson.org) (Univ. Grenoble Alpes,
-  CNRS, Grenoble INP, LJK, 38000 Grenoble, France)
+- [Emilie Devijver](https://lig-aptikal.imag.fr/~devijvee/) (CNRS, Univ. Grenoble Alpes, Grenoble INP, LIG, 38000 Grenoble, France)
+- [Adeline Samson](http://adeline.e-samson.org) (Univ. Grenoble Alpes, CNRS, Grenoble INP, LJK, 38000 Grenoble, France)
 
 ### Abstract
 
