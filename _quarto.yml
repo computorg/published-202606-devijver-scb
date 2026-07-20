@@ -1,6 +1,6 @@
 project:
   render: 
-    - published-202606-devijver-scb.qmd
+    - main.qmd
     - README.qmd
 
 title: "Should we correct the bias in Confidence Bands for Repeated Functional Data?"

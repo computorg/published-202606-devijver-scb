@@ -30,10 +30,10 @@ logo_text_white.pdf
 logo_notext_white.png
 
 # Quarto output files
-published-202606-devijver-scb.html
-published-202606-devijver-scb.pdf
-published-202606-devijver-scb.ipynb
-published-202606-devijver-scb.tex
+main.html
+main.pdf
+main.ipynb
+main.tex
 
 # Latex compilation files
 *.aux
