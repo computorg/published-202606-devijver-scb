@@ -17,7 +17,7 @@ author:
     url: http://adeline.e-samson.org
     affiliations:
       - name: Univ. Grenoble Alpes, CNRS, Grenoble INP, LJK, 38000 Grenoble, France
-date: last-modified
+date: 2026-07-20
 date-modified: last-modified
 abstract: >+
  While confidence intervals for finite quantities are well-established, constructing confidence bands for objects of infinite dimension, such as functions, is challenging.  In this paper, we explore the concept of parametric confidence bands for functional data with an orthonormal basis. Specifically, we revisit the method proposed by Sun and Loader, which yields confidence bands for the projection of the regression function in a fixed-dimensional space. This approach can introduce bias into the confidence bands when the dimension of the basis is misspecified. Building on this insight, we introduce a corrected, unbiased confidence band. Surprisingly, our corrected band tends to be wider than that suggested by a naive approach. To address this, we propose a model selection criterion that allows for data-driven estimation of the basis dimension. The bias is then automatically corrected after dimension selection. We illustrate these strategies through an extensive simulation study. We conclude with an application to real data.
