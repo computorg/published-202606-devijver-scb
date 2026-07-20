@@ -36,7 +36,7 @@ related-identifiers:
 bibliography: references.bib
 github-user: computorg
 repo: "published-202606-devijver-scb"
-status: accepted
+status: published
 format:
   computo-pdf: default
   computo-html: default
