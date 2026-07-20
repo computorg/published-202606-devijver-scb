@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: If you use or cite this article, please use the metadata provided in 'preferred-citation'.
+title: Should we correct the bias in Confidence Bands for Repeated Functional Data?
+authors:
+- family-names: Devijver
+  given-names: Emilie
+  orcid: https://orcid.org/0000-0002-8360-1834
+  affiliation: CNRS, Univ. Grenoble Alpes, Grenoble INP, LIG, 38000 Grenoble, France
+- family-names: Samson
+  given-names: Adeline
+  affiliation: Univ. Grenoble Alpes, CNRS, Grenoble INP, LJK, 38000 Grenoble, France
+url: https://computo-journal.org/published-202606-devijver-scb/
+preferred-citation:
+  type: article
+  title: Should we correct the bias in Confidence Bands for Repeated Functional Data?
+  authors:
+  - family-names: Devijver
+    given-names: Emilie
+    orcid: https://orcid.org/0000-0002-8360-1834
+    affiliation: CNRS, Univ. Grenoble Alpes, Grenoble INP, LIG, 38000 Grenoble, France
+  - family-names: Samson
+    given-names: Adeline
+    affiliation: Univ. Grenoble Alpes, CNRS, Grenoble INP, LJK, 38000 Grenoble, France
+  journal: Computo
+  issn: 2824-7795
+  url: https://computo-journal.org/published-202606-devijver-scb/
+  publisher:
+    name: French Statistical Society
+  doi: 10.57750/nmyg-wg36
+  year: 2026
+doi: 10.57750/nmyg-wg36
+date-released: '2026-06-01'
